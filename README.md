@@ -75,10 +75,10 @@ syncing them directly to your Android phone is possible following these steps:
 In order to be able to invoke the synchronization easily without much of a hassle,
 it is recommended to have a simple sync button on your homescreen that does everything automatically.
 
-5. Get [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
-6. Get [Termux:Tasker](https://play.google.com/store/apps/details?id=com.termux.tasker)
-7. Place the command that runs yt-mused inside a bash script.
-8. Using Tasker and the Termux:Tasker plugin you choose any trigger (e.g. a button on your homescreen) to run the bash script and sync your music
+6. Get [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+7. Get [Termux:Tasker](https://play.google.com/store/apps/details?id=com.termux.tasker)
+8. Place the command that runs yt-mused inside a bash script.
+9. Using Tasker and the Termux:Tasker plugin you choose any trigger (e.g. a button on your homescreen) to run the bash script and sync your music
 
 <br>
 
