@@ -111,7 +111,7 @@ I have been using this implementation flawlessly for the last two years. Here is
 
 ### Further information
 
-In detail, and depending on your custom settings, Mused will collect your saved YouTube Music playlists, your liked songs and your subscribed artists and queue the songs in a download queue. Then it will download what's not yet on your device and depending on your settings it will delete music from your device that you have deleted on YT Music. All the application does is a one-way sync, meaning that all your data online will remain unchanged, no matter what you do with it offline.
+In detail, and depending on your custom settings, Mused will collect your saved YT Music playlists, your liked songs and your subscribed artists and queue the songs in a download queue. Then it will download what's not yet on your device and depending on your settings it will delete music from your device that you have deleted on YT Music. All the application does is a one-way sync, meaning that all your songs and lists online will remain unchanged, no matter what you do with it offline.
 
 The file format used by Mused is MPEG-4  (`.m4a`).
 Under the hood the files are named after their respective YouTube video ID, which facilitates quick syncing.
