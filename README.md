@@ -89,14 +89,14 @@ I have been using this implementation flawlessly for the last two years. Here is
 
 ### **Homescreen shortcut**<br>
 <img src="https://i.postimg.cc/fRnrqrfP/hs.jpg" alt="Homescreen shortcut" width=250px/><br>
-*Syncing at the click of a button*
+*Syncing at the click of a button.*
 
 <br>
 
 ### **Playlist / Folder view**<br>
 
 <img src="https://i.postimg.cc/SKmtkY57/pl.jpg" alt="Playlist/Folder view" width=250px/><br>
-*See your playlists as you would in YouTube Music*
+*See your playlists as you would in YouTube Music.*
 
 <br>
 
@@ -111,8 +111,10 @@ I have been using this implementation flawlessly for the last two years. Here is
 
 ### Further information
 
-The file format used by mused is MPEG-4  (`.m4a`).
+In detail, and depending on your custom settings, Mused will collect your saved YouTube Music playlists, your liked songs and your subscribed artists and queue the songs in a download queue. Then it will download what's not yet on your device and depending on your settings it will delete music from your device that you have deleted on YT Music. All the application does is a one-way sync, meaning that all your data online will remain unchanged, no matter what you do with it offline.
+
+The file format used by Mused is MPEG-4  (`.m4a`).
 Under the hood the files are named after their respective YouTube video ID, which facilitates quick syncing.
-Using a music player however, the songs are displayed intuitively with the title, artist and album tag as well as the album cover as an embedded thumbnail.
+Using a music player however, the songs are displayed intuitively with the title, artist and album tag as well as the album cover as an embedded thumbnail. The order of display of the playlist songs can be easily preserved as Mused attaches tracknumbers to the songs in the order as they appear on YT Music.
 
 Please don't hesitate to ask further questions!
