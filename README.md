@@ -61,7 +61,7 @@ Once everything is set up, simply run the `main.py` file contained in `yt-mused/
 
 <br>
 
-#### Sync directly to your Android phone
+#### Sync directly to your Android phone (optional)
 If you're like me and mainly listen to music on your phone and you don't want to copy the files to your phone everytime you synced them,
 syncing them directly to your Android phone is possible following these steps:
 
